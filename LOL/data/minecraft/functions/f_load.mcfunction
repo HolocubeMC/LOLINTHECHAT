@@ -1,0 +1,1 @@
+scoreboard objectives add f_deaths deathCount
